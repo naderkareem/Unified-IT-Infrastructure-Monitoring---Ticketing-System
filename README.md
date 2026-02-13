@@ -47,6 +47,8 @@ Frontend
 cd frontend
 npm install
 npm start
+```
+
 🧠 Key Concepts Demonstrated
 REST API design
 
